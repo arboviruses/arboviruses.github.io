@@ -23,11 +23,12 @@ description: Emerging Viruses of Zoonotic and Veterinary Importance
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "http://ev-zvi.github.io"
+  Organisation: "about"
   Rationale: "rationale"
-  About: "about"
   Resources:
     - University of Cambridge: "http://www.cam.ac.uk/"
-  Home: "http://ev-zvi.github.io"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
