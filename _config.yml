@@ -23,6 +23,7 @@ description: Emerging Viruses of Zoonotic and Veterinary Importance
 
 # List of links in the navigation bar
 navbar-links:
+  Rationale: "rationale"
   About: "about"
   Resources:
     - University of Cambridge: "http://www.cam.ac.uk/"
