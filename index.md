@@ -1,4 +1,6 @@
 ---
+title: EV-ZVI
+subtitle: Emerging Viruses of Zoonotic and Veterinary Importance
 ---
 
 ## Summary of meeting
