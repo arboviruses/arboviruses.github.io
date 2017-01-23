@@ -23,7 +23,7 @@ description: Emerging Viruses of Zoonotic and Veterinary Importance
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Resources:
     - University of Cambridge: "http://www.cam.ac.uk/"
   Home: "http://ev-zvi.github.io"
