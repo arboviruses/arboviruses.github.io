@@ -1,6 +1,8 @@
 ---
 title: EV-ZVI
 subtitle: Emerging Viruses of Zoonotic and Veterinary Importance
+bigimg:
+  - "/img/genomics-zoonosis.jpg" : ""
 ---
 
 ## Summary of meeting
