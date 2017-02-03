@@ -21,6 +21,6 @@ This is a two day meeting to bring together international researchers with an in
 - Systemic Infections
 - Drivers of Emerging Infections
 
-The meeting will begin Monday 24th July with registration at 12.00-14.00 with lunch and finish Wed 26th July at 13.00 followed by lunch.
+The meeting will be held at [Churchill College, Cambridge](https://www.chu.cam.ac.uk/), beginning Monday 24th July with registration at 12.00-14.00 with lunch and finish on Wednesday 26th July at 13.00, followed by lunch.
 
 Registration and abstract submission will commence in the second week of February.
