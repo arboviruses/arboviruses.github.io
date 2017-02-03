@@ -43,8 +43,8 @@ avatar: "/img/virus-svgrepo-com.svg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Simon Frost
-  email: "sdwfrost@gmail.com"
+  name: EV-ZVI 2017
+  email: "vet-emergingviruses@vet.cam.ac.uk"
   github: sdwfrost    # eg. daattali
   twitter: sdwfrost   # eg. daattali
 
@@ -53,9 +53,9 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
@@ -75,14 +75,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ev-zvi.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "emerging-viruses.uk"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-91336585-1"
 
 # Google Tag Manager ID
 #gtm: ""
