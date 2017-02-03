@@ -6,6 +6,8 @@ bigimg:
   - "/img/gsm2.jpg" : ""
   - "/img/ducks.jpg" : ""
   - "/img/cows.jpg" : ""
+  - "/img/ducks2.jpg" : ""
+  - "/img/cows2.jpg" : ""
 ---
 
 ## Summary of meeting
