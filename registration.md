@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Registration and Abstract Submission
+title: Registration and Abstracts
 ---
 
 - Our registration and abstract submission are via two separate links below.
