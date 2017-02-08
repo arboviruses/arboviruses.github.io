@@ -1,4 +1,7 @@
-# Registration and Abstract Submission
+---
+layout: page
+title: Registration and Abstract Submission
+---
 
 - Our registration and abstract submission are via two separate links below.
 
