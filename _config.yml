@@ -24,6 +24,7 @@ description: Emerging Viruses of Zoonotic and Veterinary Importance
 # List of links in the navigation bar
 navbar-links:
   Home: "http://ev-zvi.github.io"
+  Registration/Abstracts: "registration"
   Organisation: "about"
   Rationale: "rationale"
   Resources:
