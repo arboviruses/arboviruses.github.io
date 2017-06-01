@@ -29,4 +29,10 @@ We are interested in hearing about all aspects of emerging viral infections from
 
 The meeting will be held at [Churchill College, Cambridge](https://www.chu.cam.ac.uk/), beginning Monday 24th July 2017 with registration at 12.00-14.00 with lunch and finish on Wednesday 26th July 2017 at 13.00, followed by lunch.
 
-Registration and abstract submission will commence in the second week of February.
+## Abstracts and Registration
+
+The deadline for abstracts is **9th June 2017**.
+
+The deadline for registration is **8th July 2017**.
+
+Further information on submitting an abstract and registering can be found [here](http://emerging-viruses.uk/registration).
