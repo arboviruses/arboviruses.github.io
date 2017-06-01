@@ -7,6 +7,8 @@ title: Registration and Abstracts
 
 ## Registration
 
+The deadline for registration is **8th July 2017**.
+
 - Registration includes coffee, tea, lunches and dinners.
     - There will be a conference dinner on Tues 25th July.
 - Registration fees:
@@ -23,6 +25,8 @@ title: Registration and Abstracts
 [Register here](http://onlinesales.admin.cam.ac.uk/conferences-and-events/veterinary-medicine/emerging-viruses-of-zoonotic-and-veterinary-importance-evzvi/emerging-viruses-of-zoonotic-and-veterinary-importance-evzvi)
 
 ## Abstract Submission
+
+The deadline for abstracts is **9th June 2017**.
 
 - Abstracts will not be processed and accepted until the author has registered for the conference.
 - Instructions:
