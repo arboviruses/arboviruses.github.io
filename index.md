@@ -3,7 +3,7 @@ title: arbovirus.es
 subtitle: Arbovirus RCN
 bigimg:
   - "img/culex_tarsalis_lores.jpg" : "James Gathany, http://phil.cdc.gov"
-  - "img/env.jpg" : ""
+  - "img/wnv.jpg" : ""
 ---
 
 ## Introduction
